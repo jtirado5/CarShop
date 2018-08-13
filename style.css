@@ -1,0 +1,188 @@
+/* Container holding the image and the text */
+.container {
+    position: relative;
+}
+
+/* Bottom right text */
+.text-block {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.navbar-nav {
+	margin: 0 auto;
+}
+
+.nav-item {
+	padding-left: 60px;
+}
+#oil{
+    height:20ch;
+    width: 10ch;
+    background-color: purple;
+    color: white;
+    text-align: center;
+      
+}
+#nos{
+    height:20ch;
+    width: 10ch;
+    background-color: blue;
+    color: white;
+    text-align: center;
+      
+}
+#align{
+    height:20ch;
+    width: 10ch;
+    background-color: green;
+    color: white;
+    text-align: center;
+      
+}
+#brakes{
+    height:20ch;
+    width: 10ch;
+    background-color: orange;
+    color: white;
+    text-align: center;
+      
+}
+#tow{
+    height:20ch;
+    width: 10ch;
+    background-color: red;
+    color: white;
+    text-align: center;
+      
+}
+#tire{
+    height:20ch;
+    width: 10ch;
+    background-color: black;
+    color: white;
+    text-align: center;
+      
+}
+#road{
+    height:20ch;
+    width: 10ch;
+    background-color: pink;
+    color: white;
+    text-align: center;
+      
+}
+#battery{
+    height:20ch;
+    width: 10ch;
+    background-color: silver;
+    color: white;
+    text-align: center;
+      
+}
+#inspect{
+    height:20ch;
+    width: 10ch;
+    background-color: brown;
+    color: white;
+    text-align: center;
+      
+}
+#serv{
+    height: 10ch;
+    background-color: black;
+    color: white;
+    text-align: center;
+      
+}
+#home{
+    height: 10ch;
+    background-color: black;
+    color: white;
+    text-align: center;
+      
+}
+#about{
+    height: 10ch;
+    background-color: black;
+    color: white;
+    text-align: center;
+      
+}
+#contact{
+    height: 10ch;
+    background-color: black;
+    color: white;
+    text-align: center;
+      
+}
+body{
+    background-image: url("eg.jpg");
+    background-size: cover;
+}
+
+label {
+    color: white;
+}
+
+.container {
+    margin-top: 50px;
+}
+#mech{
+    height:20ch;
+    width: 10ch;
+    background-color: gray;
+    color: white;
+    text-align: center;
+}
+#qual{
+    height:20ch;
+    width: 10ch;
+    background-color: gray;
+    color: white;
+    text-align: center;
+}
+#afford{
+    height:20ch;
+    width: 10ch;
+    background-color: gray;
+    color: white;
+    text-align: center;
+}
+#row2{
+    margin-top: 150px;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+.vertical-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+footer{
+    color:white;
+}
+#foot{
+    bottom: 0;
+    left: 0;
+    width:100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+}
+
+#unstyle{
+    list-style-type: none;
+}
+
+p{
+    color:white;
+    text-align: center;
+    margin-top: 25px;
+}
