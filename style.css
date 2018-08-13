@@ -142,11 +142,7 @@ label {
     color: white;
     text-align: center;
 }
-#row2{
-    margin-top: 150px;
-    margin-right: 150px;
-    margin-left: 150px;
-}
+
 .vertical-center {
   display: flex;
   align-items: center;
