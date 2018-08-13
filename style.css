@@ -23,7 +23,6 @@
 }
 #oil{
     height:20ch;
-    width: 10ch;
     background-color: purple;
     color: white;
     text-align: center;
@@ -31,7 +30,6 @@
 }
 #nos{
     height:20ch;
-    width: 10ch;
     background-color: blue;
     color: white;
     text-align: center;
@@ -39,7 +37,6 @@
 }
 #align{
     height:20ch;
-    width: 10ch;
     background-color: green;
     color: white;
     text-align: center;
@@ -47,7 +44,6 @@
 }
 #brakes{
     height:20ch;
-    width: 10ch;
     background-color: orange;
     color: white;
     text-align: center;
@@ -55,7 +51,6 @@
 }
 #tow{
     height:20ch;
-    width: 10ch;
     background-color: red;
     color: white;
     text-align: center;
@@ -63,7 +58,6 @@
 }
 #tire{
     height:20ch;
-    width: 10ch;
     background-color: black;
     color: white;
     text-align: center;
@@ -71,7 +65,6 @@
 }
 #road{
     height:20ch;
-    width: 10ch;
     background-color: pink;
     color: white;
     text-align: center;
@@ -79,7 +72,6 @@
 }
 #battery{
     height:20ch;
-    width: 10ch;
     background-color: silver;
     color: white;
     text-align: center;
@@ -87,7 +79,6 @@
 }
 #inspect{
     height:20ch;
-    width: 10ch;
     background-color: brown;
     color: white;
     text-align: center;
@@ -135,21 +126,18 @@ label {
 }
 #mech{
     height:20ch;
-    width: 10ch;
     background-color: gray;
     color: white;
     text-align: center;
 }
 #qual{
     height:20ch;
-    width: 10ch;
     background-color: gray;
     color: white;
     text-align: center;
 }
 #afford{
     height:20ch;
-    width: 10ch;
     background-color: gray;
     color: white;
     text-align: center;
